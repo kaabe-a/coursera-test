@@ -1,1 +1,1 @@
-window.onclick(window.alert('hye'))
+// window.onclick(window.alert('hye'))
