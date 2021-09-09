@@ -1,0 +1,1 @@
+window.onclick(window.alert('hye'))
